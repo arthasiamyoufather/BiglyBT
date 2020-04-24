@@ -1,5 +1,7 @@
 # BiglyBT
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3f4a43955344428a8574cf98d9218a76)](https://app.codacy.com/manual/arthasiamyoufather/BiglyBT?utm_source=github.com&utm_medium=referral&utm_content=arthasiamyoufather/BiglyBT&utm_campaign=Badge_Grade_Settings)
+
 Source for BiglyBT, a feature filled, open source, ad-free, bittorrent client.  BiglyBT is forked from Vuze/Azureus and is being maintained by two of the original developers as well as members of the community.  With over 15 years of development, there's a good chance we have the features you are looking for, as well as the decade old bugs you aren't looking for :)
 
 * [Official BiglyBT site](https://www.biglybt.com)
